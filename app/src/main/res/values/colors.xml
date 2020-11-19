@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="bg_gray">#BFBFBF</color>
+    <color name="black">#000000</color>
+    <color name="tab_blue">#2E7BEF</color>
+    <color name="tab_gray">#97a0ab</color>
+    <color name="gray">#97a0ab</color>
+    <color name="blue">#27A2F0</color>
+    <color name="line_color">#e6e9ea</color>
+    <color name="yellow">#ff7e00</color>
+    <color name="bg_color">#f9f9f9</color>
+    <color name="login_tv">#647786</color>
+    <color name="tv_index_color">#333B46</color>
+    <color name="login_tv_gray_account">#BBC0CB</color>
+    <color name="line_login_index">#EDEDEE</color>
+    <color name="line_login_button">#BBBBBB</color>
+    <color name="line_login_or">#BBC0CB</color>
+    <color name="line_login_orline">#50D8D8D8</color>
+    <color name="base_color">#f5f5f5</color>
+    <color name="text_color1">#999999</color>
+    <color name="text_color2">#666666</color>
+    <color name="text_color3">#333333</color>
+    <color name="bg_blue">#259CE7</color>
+    <color name="black_mine_bg">#1649667D</color>
+    <color name="black_mine">#131719</color>
+    <color name="line_bg_new">#08191F25</color>
+    <color name="line_mine_bg">#F6F6F6</color>
+    <color name="tv_mine_line">#08191F25</color>
+    <color name="tv_mine_bg">#08131719</color>
+    <color name="tv_mine">#131719</color>
+</resources>

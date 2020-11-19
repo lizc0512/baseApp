@@ -1,0 +1,7 @@
+/build
+bin/
+gen/
+build/
+dist/
+.gradle/
+gradle/
